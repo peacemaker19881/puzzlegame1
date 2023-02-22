@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Vue logo" src="./assets/BUMBA LOGO.png">
+  <HelloWorld msg="Murakaza neza muri game development"/>
 </template>
 
 <script>
